@@ -11,7 +11,7 @@ markup:
   highlight:
     noClasses: no
 params:
-  author: John Doe
+  author: Thobelani Mfengwana
   avatarURL: images/avatar.jpeg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
@@ -20,11 +20,11 @@ params:
   customRemoteJS: []
   customSCSS: []
   dateFormat: January 2, 2006
-  description: John Doe's personal website
+  description: Thobelani Mfengwana's personal website
   hideColorSchemeToggle: no
   info:
-    - Full Stack DevOps
-    - Magician
+    - Public Health Consultant
+    - Healthcare Supply Chain Consultant
   keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
@@ -32,30 +32,17 @@ params:
   social:
     - icon: fa-brands fa-github fa-2x
       name: Github
-      url: https://github.com/johndoe/
+      url: https://github.com/thobelani-mfengwana
       weight: 1
-    - icon: fa-brands fa-gitlab fa-2x
-      name: Gitlab
-      url: https://gitlab.com/johndoe/
-      weight: 2
     - icon: fa-brands fa-x-twitter fa-2x
       name: Twitter
-      url: https://twitter.com/johndoe/
+      url: https://x.com/TMfengwana
       weight: 3
     - icon: fa-brands fa-linkedin fa-2x
       name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
+      url: https://www.linkedin.com/in/thobelani-mfengwana/
       weight: 4
-    - icon: fa-brands fa-medium fa-2x
-      name: Medium
-      url: https://medium.com/@johndoe
-      weight: 5
-    - icon: fa-solid fa-rss fa-2x
-      name: RSS
-      rel: alternate
-      type: application/rss+xml
-      url: https://myhugosite.com/index.xml
-      weight: 6
+    
 taxonomies:
   author: authors
   category: categories
@@ -78,25 +65,4 @@ languages:
         - name: Contact me
           url: contact/
           weight: 5
-  pt-br:
-    languageName: ':brazil:'
-    menu:
-      main:
-        - name: Sobre
-          url: about/
-          weight: 1
-        - name: Blog
-          url: posts/
-          weight: 2
-        - name: Projetos
-          url: projects/
-          weight: 3
-        - name: Contato
-          url: contact/
-          weight: 5
-    params:
-      author: João Ninguém
-      description: Sítio pessoal de João Ninguém
-      info: Full Stack DevOps e Mágico
-      keywords: blog,desenvolvedor,pessoal
-    title: João Ninguém
+  
