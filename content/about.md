@@ -9,20 +9,25 @@ description: Hugo, the world's fastest framework for building websites
 title: About
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Welcome to my website! As a dedicated healthcare professional with a passion for data analysis and statistical computing, I aim to bridge the gap between clinical practice and data-driven decision-making. My expertise in R programming and love for uncovering insights from data empowers healthcare workers to enhance patient care through informed strategies.
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+My journey in data analysis began with a curiosity to understand the patterns and trends hidden within complex datasets. Over the years, I have honed my skills in R programming, a powerful tool that has become my go-to language for statistical computing. Through rigorous training and hands-on experience, I have mastered various data analysis techniques, enabling me to transform raw data into actionable insights.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Here are some key aspects of my data analysis skillset:
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+R Programming: Proficient in R for data manipulation, visualization, and statistical modeling. I utilize R's extensive libraries to perform complex analyses efficiently.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Statistical Computing: Expertise in statistical methods, including hypothesis testing, regression analysis, and predictive modeling, to support evidence-based decision-making.
+
+Data Visualization: Skilled in creating clear and compelling visualizations that highlight key findings and trends, making data accessible and understandable for all stakeholders.
+
+Data Cleaning and Preprocessing: Experienced in preparing datasets for analysis by handling missing values, outliers, and ensuring data integrity.
+Health Data Analysis: Specialized in analyzing healthcare data, from patient records to large-scale health surveys, to identify patterns that can improve clinical outcomes.
+
+Why I Love R Programming
+
+R programming is not just a tool; it's a passion. The flexibility and versatility of R allow me to explore data in innovative ways, uncovering insights that drive meaningful change. Whether it's through advanced statistical analyses or creating dynamic visualizations, R enables me to push the boundaries of what's possible in data analysis.
+
+
