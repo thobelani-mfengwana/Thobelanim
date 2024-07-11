@@ -5,10 +5,7 @@ title: Contact
 
 
 
-Follow me,
-[![Twitter Logo](/images/X-Logo.png)](https://x.com/TMfengwana) 
-<a href="https://x.com/TMfengwana">
-  <img src="/images/X-Logo.png" alt="Twitter Logo" style="width:50px;height:50px;">
-</a>
+Follow me, [Twitter](https://x.com/TMfengwana) | [Linkedin ](https://www.linkedin.com/in/thobelani-mfengwana/) | [Github ](https://github.com/thobelani-mfengwana)
+
 
 
